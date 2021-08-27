@@ -1,1 +1,7 @@
 .venv
+result.txt
+test-acc.xlsx
+test-chart.xlsx
+general_ledger.xlsx
+chart_of_accounts.xlsx
+/src/__pycache__
