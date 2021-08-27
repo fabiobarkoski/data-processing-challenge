@@ -1,8 +1,8 @@
 import pandas as pd
 
 # path to chart of accounts and general ledger
-file_chart = '/media/fabio/00C2DCA2C2DC9D6A/projetos/Pessoal/data-processing-challenge/test-chart.xlsx'
-file_acc = '/media/fabio/00C2DCA2C2DC9D6A/projetos/Pessoal/data-processing-challenge/test-acc.xlsx'
+file_chart = '/path/to/file.xlsx'
+file_acc = '/path/to/file.xlsx'
 
 # create the dataframe of the chart
 df1 = pd.read_excel(file_chart)
