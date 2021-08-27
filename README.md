@@ -1,5 +1,10 @@
 # Data Processing Challenge
+
 A script to the Data Processing Challenge
+
+### Decisions
+
+To code the challenge I choose use pandas to work with the xlsx files. To populate the chart of accounts I used conditions and create new dataframes. For personal problems, time and knowledge I did not finish the challenge. But here is my ideas: to save the populated charts, I chose to use first a `.txt` file then change to a relational database like SQLite3, if the massive volume of data not much then 1GB, or PostgreSQL, to real massive volume of data.
 
 ## Summary
 
@@ -41,8 +46,6 @@ To run the tests, run the following command
 ```bash
   pytest
 ```
-## Documentation
-
 
 ## Author
 
